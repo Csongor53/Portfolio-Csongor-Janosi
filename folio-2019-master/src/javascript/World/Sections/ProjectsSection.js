@@ -71,7 +71,7 @@ export default class ProjectsSection
     {
         this.list = [
             {
-                name: 'Three.js Journey',
+                name: 'Swampify',
                 imageSources:
                 [
                     './models/projects/threejsJourney/slideA.webp',
@@ -97,6 +97,32 @@ export default class ProjectsSection
                 ]
             },
             {
+                name: 'Three.js Journey',
+                imageSources:
+                [
+                    './models/projects/threejsJourney/slideA.webp',
+                    './models/projects/threejsJourney/slideB.webp',
+                    './models/projects/threejsJourney/slideC.webp',
+                    './models/projects/threejsJourney/slideD.webp'
+                ],
+                floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
+                link:
+                {
+                    href: 'https://threejs-journey.com?c=p3',
+                    x: - 4.8,
+                    y: - 3,
+                    halfExtents:
+                    {
+                        x: 3.2,
+                        y: 1.5
+                    }
+                },
+                distinctions:
+                [
+                    { type: 'fwa', x: 3.95, y: 4.15 }
+                ]
+            },
+            /*{
                 name: 'Chartogne Taillet',
                 imageSources:
                 [
@@ -384,7 +410,7 @@ export default class ProjectsSection
             //         }
             //     },
             //     distinctions: []
-            // }
+            // }*/
         ]
     }
 
