@@ -97,9 +97,6 @@ export default class ProjectsSection
                 imageSources:
                 [
                     './models/projects/partify/slideA.webp',
-                    './models/projects/partify/slideB.webp',
-                    './models/projects/partify/slideC.webp',
-                    './models/projects/partify/slideD.webp'
                 ],
                 floorTexture: this.resources.items.projectsPartifyFloorTexture,
                 link:
