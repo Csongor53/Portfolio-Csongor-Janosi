@@ -101,7 +101,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsPartifyFloorTexture,
                 link:
                 {
-                    href: 'https://thepartify.com',
+                    href: 'https://thepartify-g4dce8g7a3arancx.germanywestcentral-01.azurewebsites.net/',
                     x: - 4.8,
                     y: - 5.4,
                     halfExtents:
