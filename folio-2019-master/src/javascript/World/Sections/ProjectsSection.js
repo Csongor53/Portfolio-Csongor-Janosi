@@ -84,7 +84,7 @@ export default class ProjectsSection
                 {
                     href: 'https://shellrider.itch.io/swampify',
                     x: - 4.8,
-                    y: - 3,
+                    y: - 3.5,
                     halfExtents:
                     {
                         x: 3.2,
