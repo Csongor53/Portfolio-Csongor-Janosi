@@ -120,14 +120,14 @@ export default class Resources extends EventEmitter
             // { name: 'projectsKepplerFloor', source: './models/projects/keppler/floorTexture.png', type: 'texture' },
 
             // Information
-            { name: 'informationStaticBase', source: './models/information/static/base.glb' },
-            { name: 'informationStaticCollision', source: './models/information/static/collision.glb' },
-            { name: 'informationStaticFloorShadow', source: './models/information/static/floorShadow.png', type: 'texture' },
+            // { name: 'informationStaticBase', source: './models/information/static/base.glb' },
+            // { name: 'informationStaticCollision', source: './models/information/static/collision.glb' },
+            // { name: 'informationStaticFloorShadow', source: './models/information/static/floorShadow.png', type: 'texture' },
 
-            { name: 'informationBaguetteBase', source: './models/information/baguette/base.glb' },
-            { name: 'informationBaguetteCollision', source: './models/information/baguette/collision.glb' },
+            // { name: 'informationBaguetteBase', source: './models/information/baguette/base.glb' },
+            // { name: 'informationBaguetteCollision', source: './models/information/baguette/collision.glb' },
 
-            { name: 'informationContactTwitterLabel', source: './models/information/static/contactTwitterLabel.png', type: 'texture' },
+            // { name: 'informationContactTwitterLabel', source: './models/information/static/contactTwitterLabel.png', type: 'texture' },
             { name: 'informationContactGithubLabel', source: './models/information/static/contactGithubLabel.png', type: 'texture' },
             { name: 'informationContactLinkedinLabel', source: './models/information/static/contactLinkedinLabel.png', type: 'texture' },
             { name: 'informationContactMailLabel', source: './models/information/static/contactMailLabel.png', type: 'texture' },
