@@ -101,9 +101,9 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsPartifyFloorTexture,
                 link:
                 {
-                    href: 'https://threejs-journey.com?c=p3',
+                    href: 'https://thepartify.com',
                     x: - 4.8,
-                    y: - 3,
+                    y: - 5.4,
                     halfExtents:
                     {
                         x: 3.2,
